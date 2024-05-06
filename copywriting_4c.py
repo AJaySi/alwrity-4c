@@ -15,7 +15,7 @@ def main():
 
 def set_page_config():
     st.set_page_config(
-        page_title="Alwrity",
+        page_title="Alwrity Copywriting",
         layout="wide",
     )
 
