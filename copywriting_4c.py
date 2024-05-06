@@ -84,8 +84,6 @@ def input_section():
             else:
                 st.error("Clear, Concise, Credible, and Compelling fields are required!")
 
-    page_bottom()
-
 
 def generate_four_cs_copy(brand_name, description, ad_details):
     prompt = f"""As an expert copywriter, I need your help in creating a marketing campaign for {brand_name},
